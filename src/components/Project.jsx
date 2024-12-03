@@ -1,9 +1,23 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { assets, projectsData } from "../assets/assets";
 
 const Project = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [cardsToShow, setCardsToShow] = useState(1);
+
+  useEffect(() => {
+    const updateCardsToShow = () => {
+      if (window.innerWidth >= 1024) {
+        setCardsToShow(projectsData.length);
+      } else {
+        setCardsToShow(1);
+      }
+    };
+    updateCardsToShow();
+    window.addEventListener("resize", updateCardsToShow);
+
+    return () => window.removeEventListener("resize", updateCardsToShow);
+  }, []);
 
   const nextProject = () => {
     setCurrentIndex((prevIndex) => (prevIndex + 1) % projectsData.length);
@@ -52,7 +66,7 @@ const Project = () => {
 
       <div className="overflow-hidden">
         <div
-          className="flex gap-8 transition-transform duration-500 ease-in-out mt-6"
+          className="flex gap-8 transition-transform duration-500 ease-in-out mt-8 "
           style={{
             transform: `translateX(-${(currentIndex * 100) / cardsToShow}%)`,
           }}
@@ -64,14 +78,14 @@ const Project = () => {
                 alt={project.title}
                 className="w-full h-auto mb-14"
               />
-              <div className="absolute left-0 right-0 bottom-5 flex justify-center">
+              <div className="absolute left-0 right-0 bottom-5 flex justify-center ">
                 <div className="inline-block bg-white w-3/4 px-4 py-2 shadow-md ">
                   <h2 className="text-xl text-gray-800 font-semibold">
                     {project.title}
                   </h2>
                   <p className="text-gray-500 text-sm">
                     {project.price}
-                    <span>|</span>
+                    <span className="px-1">|</span>
                     {project.location}
                   </p>
                 </div>
