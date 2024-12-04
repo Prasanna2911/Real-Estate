@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { assets, projectsData } from "../assets/assets";
+import { motion } from "framer-motion";
 
 const Project = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -29,7 +30,11 @@ const Project = () => {
     );
   };
   return (
-    <div
+    <motion.div
+      initial={{ opacity: 0, x: -200 }}
+      transition={{ duration: 1.5 }}
+      whileInView={{ opacity: 1, x: 0 }}
+      viewport={{ once: true }}
       className="container mx-auto pt-20 py-4 px-6 md:px-20 lg:px-32 my-20 w-full overflow-hidden"
       id="Project"
     >
@@ -94,7 +99,7 @@ const Project = () => {
           ))}
         </div>
       </div>
-    </div>
+    </motion.div>
   );
 };
 
