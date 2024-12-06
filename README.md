@@ -4,7 +4,10 @@ A modern and responsive real estate web application designed to showcase propert
 
 ## Table of Contents
 
-- [Introdution](#introduction)
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [TechnologiesUsed](#Technologies Used)
+- [Screenshots](#Screenshots)
 
 ## 📖 Introduction
 
