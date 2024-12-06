@@ -73,5 +73,5 @@ cd real-estate-project
   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BDPfRmn84" alt="About Page" style="width:">
    <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_yQUSwpJvQ" alt="Projects Page" style="width:">
    <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_46nKd9fMVS" alt="Testimonial Page" style="width:">
-   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_jIuhmKQlS" alt="Testimonial Mobile-Screen" style="width:">
+   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_jIuhmKQlS" alt="Testimonial Mobile-Screen" style="width:400px; height:500px">
 </div>
