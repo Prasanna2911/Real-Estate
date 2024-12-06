@@ -52,3 +52,17 @@ cd real-estate-project
 > The application will be accessible at http://localhost:5173 in your browser.
 
 ## 🛠️ Technologies Used
+
+1. **HTML**: The foundation of the project, used for structuring the web pages.
+
+2. **CSS3**: For adding styling and visual enhancements to create a modern and appealing user interface.
+
+3. **JavaScript (ES6+)**: Enables dynamic and interactive functionality across the application.
+
+4. **React.js**: The core framework used to build the user interface with reusable components.
+
+5. **Tailwind CSS**: A utility-first CSS framework that significantly reduced development time and streamlined the design process.
+
+6. **Framer Motion**: For implementing smooth animations while scroling and enhancing user experience with a polished look and feel.
+
+# 📸 Screenshots
