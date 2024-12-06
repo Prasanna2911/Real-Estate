@@ -68,6 +68,7 @@ cd real-estate-project
 ## 📸 Screenshots
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between;align-items:center;" >
-  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_43YOUIgl-" alt="Home Page" style="">
-  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_43YOUIgl-" alt="Home Page" style="">
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_IzHjRnCP5" alt="Home Page" style="">
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_TclB9NnXD" alt="Home Page Mobile-Screen" style="">
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BDPfRmn84" alt="Home Page Mobile-Screen" style="">
 </div>
