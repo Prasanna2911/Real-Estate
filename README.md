@@ -6,7 +6,7 @@ A modern and responsive real estate web application designed to showcase propert
 
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Technologies Used](#Technologies-Used)
+- [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
 
 ## 📖 Introduction
@@ -51,7 +51,7 @@ cd real-estate-project
 
 > The application will be accessible at http://localhost:5173 in your browser.
 
-## 🛠️Technologies Used
+## 🛠️ Technologies Used
 
 1. **HTML**: The foundation of the project, used for structuring the web pages.
 
