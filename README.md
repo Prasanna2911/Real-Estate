@@ -66,3 +66,7 @@ cd real-estate-project
 6. **Framer Motion**: For implementing smooth animations while scroling and enhancing user experience with a polished look and feel.
 
 ## 📸 Screenshots
+
+<div style="display:flex; flex-wrap:wrap; justify-content:space-between;align-items:center;" >
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_43YOUIgl-" alt="Home Page" style="">
+</div>
