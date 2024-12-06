@@ -68,9 +68,10 @@ cd real-estate-project
 ## 📸 Screenshots
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between;align-items:center;gap:10px" >
-  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_IzHjRnCP5" alt="Home Page" style="width:50%">
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_IzHjRnCP5" alt="Home Page" style="width:">
   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_TclB9NnXD" alt="Home Page Mobile-Screen" style="">
-  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BDPfRmn84" alt="About Page" style="width:50%">
-   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_yQUSwpJvQ" alt="Projects Page" style="width:50%">
-   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_46nKd9fMVS" alt="Testimonial Page" style="width:50%">
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BDPfRmn84" alt="About Page" style="width:">
+   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_yQUSwpJvQ" alt="Projects Page" style="width:">
+   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_46nKd9fMVS" alt="Testimonial Page" style="width:">
+   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_jIuhmKQlS" alt="Testimonial Mobile-Screen" style="width:">
 </div>
