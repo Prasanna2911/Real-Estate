@@ -69,4 +69,5 @@ cd real-estate-project
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-between;align-items:center;" >
   <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_43YOUIgl-" alt="Home Page" style="">
+  <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_43YOUIgl-" alt="Home Page" style="">
 </div>
